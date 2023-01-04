@@ -1,0 +1,26 @@
+body
+{
+    width: 1360px;
+}
+.container
+{
+    margin: auto;
+    width: 1360px;
+    height: 100%;
+}
+.header
+{
+    width: 1360px;
+    height: 60px;
+    border-bottom: solid 2px #aaaa;
+}
+.desc1
+{
+    width: 1360px;
+    height: 150px;
+    border-bottom: solid 2px#aaaa;   
+}
+.desc1 h3{
+    font-size: 30px;
+    text-align: center;
+}
